@@ -48,7 +48,10 @@ def main():
         for path in (ROOT / folder).iterdir():
             if path.is_file() and path.resolve() not in tracked:
                 errors.append(f"Uncatalogued file: {path.relative_to(ROOT)}")
-    for path in [ROOT / 'README.md', ROOT / 'THIRD_PARTY.md', *(ROOT / 'docs').glob('*.md'), ROOT / 'library/README.md']:
+    markdown_paths = [*ROOT.glob('*.md')]
+    for folder in ['docs', 'templates', 'library']:
+        markdown_paths.extend((ROOT / folder).rglob('*.md'))
+    for path in markdown_paths:
         for target in re.findall(r'\]\(([^)]+)\)', path.read_text()):
             if re.match(r'^[a-zA-Z][a-zA-Z0-9+.-]*:', target) or target.startswith('#'):
                 continue
@@ -58,6 +61,9 @@ def main():
     outline = (ROOT / 'docs/pitch-structure.md').read_text()
     if len(re.findall(r'^## [1-8]\. ', outline, re.M)) != 8:
         errors.append('Expected eight numbered outline sections')
+    workbook = (ROOT / 'templates/pitch-workbook.md').read_text()
+    if len(re.findall(r'^## [1-8]\. ', workbook, re.M)) != 8:
+        errors.append('Expected eight numbered workbook sections')
     for error in errors:
         print('ERROR ' + error)
     print(f"Checked {len(catalogue['sources'])} sources and {len(ids)} artifacts; {len(errors)} errors.")

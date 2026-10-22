@@ -1,20 +1,37 @@
 # pitch-sources-ivan
 
-Startup pitch sources, examples, and an evidence-based outline for a small team.
+A practical workbook and source library for structuring, drafting, and improving a startup pitch.
 
 Built for an early-stage, approximately 15-minute startup pitch with a separate hardware demonstration and no funding ask. The outline is a synthesis of the sources, adapted to that context; it is not an official YC or Sequoia template.
 
 ## Start here
 
-1. Use the **[eight-section pitch structure](docs/pitch-structure.md)** to divide content responsibilities and build the narrative. A [printable PDF](docs/pitch-structure.pdf) contains the same structure.
-2. Follow the **[working principles](docs/principles.md)** for evidence, assumptions, comparisons, and visuals.
-3. Choose readings from the **[annotated reading list](docs/reading-list.md)**: methods, mistakes, and examples.
-4. Open the **[download library](library/README.md)** for decks, templates, and supporting reference PDFs.
+| What you need | Open | What you get |
+| --- | --- | --- |
+| Turn an idea into an argument | **[Starting guide](docs/start-here.md)** | A short workflow and the role of each method |
+| Draft the pitch | **[Copy the workbook](templates/pitch-workbook.md)** | Eight sections with prompts, evidence notes, and a narrative outline |
+| Improve an existing draft | **[Review checklist](docs/improve-your-pitch.md)** | Questions, common structural repairs, and a review record |
+| Learn from an example | **[Guided examples](docs/examples.md)** | Specific pages to study, useful techniques, and limits of borrowing them |
+
+Read on GitHub and copy the workbook into Google Docs, Word, or Markdown. No installation or full-library reading is required. The **[eight-section content specification](docs/pitch-structure.md)** remains the foundation; the workbook helps you apply it. Follow the **[working principles](docs/principles.md)** throughout.
 
 Sections define what the argument must cover, not a fixed number of slides. Keep evidence beside its claim and supporting detail in the appendix. Treat customer need as the starting point for technology choices.
 
+## PDF structures and pitch examples
+
+| Material | Open | Role |
+| --- | --- | --- |
+| Our agreed outline | [PDF](docs/pitch-structure.pdf) | Printable section requirements |
+| Sequoia-style template | [PDF](library/pdfs/sequoia-pitch-deck-template.pdf) | Content prompts; PitchDeckCoach reproduction |
+| NABC value proposition | [PDF](library/pdfs/nabc-value-proposition.pdf) | Need, approach, benefits/costs, and alternatives |
+| Intercom's first pitch | [PDF](library/pdfs/intercom-first-pitch-deck.pdf) | Eight-page early-stage startup example |
+| LinkedIn Series B | [PDF](library/pdfs/linkedin-series-b-2004.pdf) | Investor example; use with the [founder's critique](https://www.reidhoffman.org/linkedin-pitch-to-greylock/) |
+
+Use the [guided examples](docs/examples.md) to understand what to borrow and what to question. Real decks contain weaknesses as well as useful techniques. For readable-slide revisions, start with [YC's illustrated before-and-after examples](https://www.ycombinator.com/blog/how-to-design-a-better-pitch-deck/).
+
 ## What is included
 
+- A starting guide, fill-in workbook, review checklist, and guided examples.
 - YC and Sequoia guidance; IDEO, NABC, Duarte, Heilmeier, a16z, and supporting evidence and slide-design methods.
 - Mistake guides from YC, Hustle Fund, and a16z.
 - LinkedIn and Intercom pitch decks; linked Sandbox VR and Nancy Duarte videos.
@@ -22,9 +39,12 @@ Sections define what the argument must cover, not a fixed number of slides. Keep
 - A [machine-readable catalogue](sources.json), with provenance, download status, page counts, file sizes, and SHA-256 checksums.
 - Notes on [similar Git repositories](docs/similar-repositories.md).
 
-The catalogue distinguishes publisher files, mirror copies, and our own generated document. Several sources publish articles or videos rather than standalone downloadable presentations; those remain linked. No videos have been downloaded. File availability was checked on **22 October 2026**.
+Find the source summaries in the [annotated reading list](docs/reading-list.md) and every included file in the [download library](library/README.md). The catalogue distinguishes publisher files, mirror copies, and our own generated document. Several sources publish articles or videos rather than standalone downloadable presentations; those remain linked. No videos have been downloaded. File availability was checked on **22 October 2026**.
 
 ## File checks and downloads
+
+<details>
+<summary>Optional maintenance commands</summary>
 
 The files are already included. To verify them locally:
 
@@ -47,6 +67,8 @@ python3 scripts/build_structure_pdf.py
 ```
 
 Rebuilding can change the PDF checksum; update its metadata in `sources.json` after inspecting the result. The Markdown outline is the editable source of truth.
+
+</details>
 
 ## Contributing
 

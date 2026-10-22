@@ -2,6 +2,8 @@
 
 Files checked on **22 October 2026**. Publisher files and mirrors are labelled separately. A file being public does not establish permission for unrestricted redistribution; see [third-party notes](../THIRD_PARTY.md).
 
+For specific pages to study and the strengths and limitations of each example, open the **[guided examples](../docs/examples.md)**. To apply the methods to your own idea, use the **[workbook](../templates/pitch-workbook.md)**.
+
 ## Presentations and templates
 
 | Resource | Local file | Extent | Provenance |
@@ -17,14 +19,14 @@ The Sequoia file contains the 12 template pages plus one promotional page. It is
 
 The LinkedIn PDF contains the deck, with image-based pages. Read [Reid Hoffman's accompanying commentary](https://www.reidhoffman.org/linkedin-pitch-to-greylock/) online. The Intercom PDF likewise should be read alongside the [founder's article](https://www.intercom.com/blog/first-pitch-deck). Neither mirror is claimed to be byte-identical to a founder-supplied original.
 
-The PowerPoint files remain editable originals. The local LibreOffice application is missing, so PDF conversions are not included.
+The PowerPoint files remain editable originals in legacy `.ppt` format. PDF conversions are not included.
 
 ## Supporting references
 
 | Resource | Local file | Extent |
 | --- | --- | --- |
 | WPI Projects With Impact: NABC action plans and tools | [PDF](pdfs/nabc-card.pdf) | 2 pages |
-| Checklist for Assertion-Evidence Slides | [PDF](pdfs/assertion-evidence-checklist.pdf) | 1 pages |
+| Checklist for Assertion-Evidence Slides | [PDF](pdfs/assertion-evidence-checklist.pdf) | 1 page |
 | The Field Guide to Human-Centered Design | [PDF](pdfs/ideo-field-guide-human-centered-design.pdf) | 192 pages |
 | Our agreed pitch structure: printable reading copy | [PDF](../docs/pitch-structure.pdf) | 2 pages |
 
