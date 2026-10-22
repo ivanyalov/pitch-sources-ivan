@@ -74,4 +74,4 @@ Rebuilding can change the PDF checksum; update its metadata in `sources.json` af
 
 Add a source only when it brings a useful method, a concrete mistake, or an instructive example. Prefer an author's or publisher's page. Record mirrors explicitly, distinguish examples from templates, and describe what evidence an example illustrates. Add any downloaded file to the catalogue and verify it before committing.
 
-Third-party copyrights and existing notices are retained. This private collection has no blanket redistribution license; see [third-party material notes](THIRD_PARTY.md) and the rights information in the catalogue.
+Third-party copyrights and existing notices are retained. No blanket redistribution license is applied to this collection; see [third-party material notes](THIRD_PARTY.md) and the rights information in the catalogue.
