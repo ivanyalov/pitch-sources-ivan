@@ -1,0 +1,526 @@
+{
+  "schema_version": 1,
+  "title": "pitch-sources-ivan",
+  "checked_on": "2026-10-22",
+  "scope": "Pitch methodologies, mistake guides, startup examples, and our agreed outline. Articles and streaming videos retained as links when no standalone deck file was located.",
+  "sources": [
+    {
+      "id": "yc-pitch",
+      "title": "How to Pitch Your Company",
+      "publisher": "Y Combinator / Michael Seibel",
+      "canonical_url": "https://www.ycombinator.com/blog/how-to-pitch-your-company/",
+      "category": "method",
+      "access": "link_only",
+      "artifact_ids": [],
+      "related_urls": [],
+      "note": "No standalone presentation file located in this collection pass; use the linked original."
+    },
+    {
+      "id": "sequoia-guide",
+      "title": "Writing a Business Plan",
+      "publisher": "Sequoia Capital",
+      "canonical_url": "https://sequoiacap.com/article/writing-a-business-plan",
+      "category": "method",
+      "access": "link_only",
+      "artifact_ids": [],
+      "related_urls": [],
+      "note": "No standalone presentation file located in this collection pass; use the linked original."
+    },
+    {
+      "id": "sequoia-template",
+      "title": "Sequoia Capital Pitch Deck Template",
+      "publisher": "PitchDeckCoach; uploaded by Malcolm Lewis",
+      "canonical_url": "https://www.slideshare.net/slideshow/sequoia-capital-pitchdecktemplate/46231251",
+      "category": "template",
+      "access": "files_included",
+      "artifact_ids": [
+        "sequoia-template"
+      ],
+      "related_urls": [],
+      "note": "A reproduction of Sequoia guidance, not an official Sequoia-authored slide file. University mirror has 13 pages: 12 template pages plus one promotional page. The requested SlideShare version has 15 pages, including additional promotional material; retained as the canonical reference. Mirror is a variant, not a byte-identical download of that upload."
+    },
+    {
+      "id": "ideo-pitch",
+      "title": "Create a Pitch",
+      "publisher": "IDEO.org / Design Kit",
+      "canonical_url": "https://www.designkit.org/methods/create-a-pitch.html",
+      "category": "method",
+      "access": "link_only",
+      "artifact_ids": [],
+      "related_urls": [
+        "https://www.designkit.org/resources/1.html"
+      ],
+      "note": "No standalone presentation file located in this collection pass; use the linked original."
+    },
+    {
+      "id": "ideo-challenge",
+      "title": "Frame Your Design Challenge",
+      "publisher": "IDEO.org / Design Kit",
+      "canonical_url": "https://www.designkit.org/methods/frame-your-design-challenge.html",
+      "category": "method",
+      "access": "link_only",
+      "artifact_ids": [],
+      "related_urls": [],
+      "note": "No standalone presentation file located in this collection pass; use the linked original."
+    },
+    {
+      "id": "ideo-audience",
+      "title": "Define Your Audience",
+      "publisher": "IDEO.org / Design Kit",
+      "canonical_url": "https://www.designkit.org/methods/define-your-audience.html",
+      "category": "method",
+      "access": "link_only",
+      "artifact_ids": [],
+      "related_urls": [],
+      "note": "No standalone presentation file located in this collection pass; use the linked original."
+    },
+    {
+      "id": "nabc",
+      "title": "NABC / WPI Value Creation Initiative",
+      "publisher": "Worcester Polytechnic Institute; SRI International; Curtis R. Carlson and Len Polizzotto",
+      "canonical_url": "https://www.wpi.edu/about/value-creation-initiative",
+      "category": "method",
+      "access": "files_included",
+      "artifact_ids": [
+        "nabc-slides",
+        "nabc-card"
+      ],
+      "related_urls": [
+        "https://www.wpi.edu/news/answering-million-dollar-question-part-2"
+      ]
+    },
+    {
+      "id": "duarte-contrast",
+      "title": "The Ultimate Guide to Contrast",
+      "publisher": "Duarte / Phoebe Perelman",
+      "canonical_url": "https://www.duarte.com/blog/ultimate-guide-to-contrast/",
+      "category": "method",
+      "access": "link_only",
+      "artifact_ids": [],
+      "related_urls": [],
+      "note": "No standalone presentation file located in this collection pass; use the linked original."
+    },
+    {
+      "id": "a16z-data-rooms",
+      "title": "The Insider's Guide to Data Rooms",
+      "publisher": "a16z / Justine Moore",
+      "canonical_url": "https://a16z.com/the-insiders-guide-to-data-rooms-what-to-know-before-you-raise/",
+      "category": "method",
+      "access": "link_only",
+      "artifact_ids": [],
+      "related_urls": [],
+      "note": "No standalone presentation file located in this collection pass; use the linked original."
+    },
+    {
+      "id": "heilmeier",
+      "title": "The Heilmeier Catechism",
+      "publisher": "DARPA",
+      "canonical_url": "https://www.darpa.mil/about/heilmeier-catechism",
+      "category": "method",
+      "access": "link_only",
+      "artifact_ids": [],
+      "related_urls": [],
+      "note": "No standalone presentation file located in this collection pass; use the linked original."
+    },
+    {
+      "id": "yc-design",
+      "title": "How to Design a Better Pitch Deck",
+      "publisher": "Y Combinator / Kevin Hale",
+      "canonical_url": "https://www.ycombinator.com/blog/how-to-design-a-better-pitch-deck/",
+      "category": "mistakes",
+      "access": "link_only",
+      "artifact_ids": [],
+      "related_urls": [],
+      "note": "Illustrated article with before-and-after slide examples; no standalone author-supplied deck file located."
+    },
+    {
+      "id": "yc-demo-day",
+      "title": "A Guide to Demo Day Presentations",
+      "publisher": "Y Combinator / Geoff Ralston",
+      "canonical_url": "https://www.ycombinator.com/blog/guide-to-demo-day-pitches/",
+      "category": "mistakes",
+      "access": "link_only",
+      "artifact_ids": [],
+      "related_urls": [],
+      "note": "No standalone presentation file located in this collection pass; use the linked original."
+    },
+    {
+      "id": "hustle-mistakes-1",
+      "title": "Pitch Deck Mistakes, Part 1: Length and detail",
+      "publisher": "Hustle Fund / Hustle Commons / Kera Demars",
+      "canonical_url": "https://www.hustlecommons.com/blog/part-1-pitch-deck-mistakes",
+      "category": "mistakes",
+      "access": "link_only",
+      "artifact_ids": [],
+      "related_urls": [],
+      "note": "No standalone presentation file located in this collection pass; use the linked original."
+    },
+    {
+      "id": "hustle-mistakes-2",
+      "title": "Pitch Deck Mistakes, Part 2: Problem",
+      "publisher": "Hustle Fund / Hustle Commons / Kera Demars",
+      "canonical_url": "https://www.hustlecommons.com/blog/part-2-pitch-deck-mistakes",
+      "category": "mistakes",
+      "access": "link_only",
+      "artifact_ids": [],
+      "related_urls": [],
+      "note": "No standalone presentation file located in this collection pass; use the linked original."
+    },
+    {
+      "id": "hustle-mistakes-3",
+      "title": "Pitch Deck Mistakes, Part 3: Differentiation",
+      "publisher": "Hustle Fund / Hustle Commons / Kera Demars",
+      "canonical_url": "https://www.hustlecommons.com/blog/part-3-pitch-deck-mistakes",
+      "category": "mistakes",
+      "access": "link_only",
+      "artifact_ids": [],
+      "related_urls": [],
+      "note": "No standalone presentation file located in this collection pass; use the linked original."
+    },
+    {
+      "id": "hustle-mistakes-4",
+      "title": "Pitch Deck Mistakes, Part 4: Scalability",
+      "publisher": "Hustle Fund / Hustle Commons / Kera Demars",
+      "canonical_url": "https://www.hustlecommons.com/blog/part-4-pitch-deck-mistakes",
+      "category": "mistakes",
+      "access": "link_only",
+      "artifact_ids": [],
+      "related_urls": [],
+      "note": "No standalone presentation file located in this collection pass; use the linked original."
+    },
+    {
+      "id": "hustle-mistakes-5",
+      "title": "Pitch Deck Mistakes, Part 5: Product focus",
+      "publisher": "Hustle Fund / Hustle Commons / Kera Demars",
+      "canonical_url": "https://www.hustlecommons.com/blog/part-5-pitch-deck-mistakes",
+      "category": "mistakes",
+      "access": "link_only",
+      "artifact_ids": [],
+      "related_urls": [],
+      "note": "No standalone presentation file located in this collection pass; use the linked original."
+    },
+    {
+      "id": "a16z-pmf",
+      "title": "Need More Time or Lack of Product-Market Fit?",
+      "publisher": "a16z / Martin Casado",
+      "canonical_url": "https://a16z.com/need-more-time-or-lack-of-product-market-fit-guideposts-for-tech-founders-going-to-market-when-no-market-exists/",
+      "category": "mistakes",
+      "access": "link_only",
+      "artifact_ids": [],
+      "related_urls": [],
+      "note": "No standalone presentation file located in this collection pass; use the linked original."
+    },
+    {
+      "id": "linkedin",
+      "title": "LinkedIn Series B pitch to Greylock, with annotations",
+      "publisher": "Reid Hoffman",
+      "canonical_url": "https://www.reidhoffman.org/linkedin-pitch-to-greylock/",
+      "category": "example",
+      "access": "files_included",
+      "artifact_ids": [
+        "linkedin-deck"
+      ],
+      "related_urls": [
+        "https://pitches.ai/pitch-deck/linkedin"
+      ],
+      "note": "Founder commentary remains on the canonical page. A 37-page image-based deck PDF is included from a public mirror; it does not include the full founder annotations. Mirror file has not been authenticated as byte-identical to a founder-supplied original."
+    },
+    {
+      "id": "intercom",
+      "title": "Our First Pitch Deck",
+      "publisher": "Intercom / Eoghan McCabe",
+      "canonical_url": "https://www.intercom.com/blog/first-pitch-deck",
+      "category": "example",
+      "access": "files_included",
+      "artifact_ids": [
+        "intercom-deck"
+      ],
+      "related_urls": [
+        "https://www.slideshare.net/slideshow/intercoms-first-pitch-deck/60630417",
+        "https://pitchmagic.ai/decks/intercom"
+      ],
+      "note": "Eight-page early deck from a public mirror. The founder article remains the source for context; mirror file is not claimed to be byte-identical to the SlideShare download."
+    },
+    {
+      "id": "sandbox-vr",
+      "title": "The a16z Pitch Room: Sandbox VR",
+      "publisher": "a16z",
+      "canonical_url": "https://a16z.com/the-a16z-pitch-room-sandbox-vr/",
+      "category": "video",
+      "access": "video_link",
+      "artifact_ids": [],
+      "related_urls": [
+        "https://www.youtube.com/watch?v=4T_YP1n7kSE"
+      ],
+      "note": "Video pitch and investor commentary; retained as a streaming link. No standalone slide file located; video not downloaded."
+    },
+    {
+      "id": "duarte-talk",
+      "title": "The Secret Structure of Great Talks",
+      "publisher": "TED / Nancy Duarte",
+      "canonical_url": "https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks",
+      "category": "video",
+      "access": "video_link",
+      "artifact_ids": [],
+      "related_urls": [],
+      "note": "Streaming talk; retained as a link. No standalone slide file located; video not downloaded."
+    },
+    {
+      "id": "assertion-evidence",
+      "title": "Assertion-Evidence Slide Structure",
+      "publisher": "Penn State College of Engineering / Michael Alley",
+      "canonical_url": "https://writing.engr.psu.edu/assertion_evidence_EA.html",
+      "category": "visual-method",
+      "access": "files_included",
+      "artifact_ids": [
+        "assertion-example",
+        "assertion-template",
+        "assertion-checklist"
+      ],
+      "related_urls": [],
+      "note": "Supplemental slide-design method. Original editable legacy .ppt files are included. Local LibreOffice launcher points to a missing application, so PDF conversions were not produced."
+    },
+    {
+      "id": "strategyzer-evidence",
+      "title": "How Strong Is Your Innovation Evidence?",
+      "publisher": "Strategyzer",
+      "canonical_url": "https://www.strategyzer.com/library/how-strong-is-your-innovation-evidence",
+      "category": "evidence",
+      "access": "link_only",
+      "artifact_ids": [],
+      "related_urls": [],
+      "note": "No standalone presentation file located in this collection pass; use the linked original."
+    },
+    {
+      "id": "ideo-frameworks",
+      "title": "Create Frameworks",
+      "publisher": "IDEO.org / Design Kit",
+      "canonical_url": "https://www.designkit.org/methods/create-frameworks.html",
+      "category": "method",
+      "access": "link_only",
+      "artifact_ids": [],
+      "related_urls": [],
+      "note": "No standalone presentation file located in this collection pass; use the linked original."
+    },
+    {
+      "id": "ideo-prototype",
+      "title": "Determine What to Prototype",
+      "publisher": "IDEO.org / Design Kit",
+      "canonical_url": "https://www.designkit.org/methods/determine-what-to-prototype.html",
+      "category": "method",
+      "access": "link_only",
+      "artifact_ids": [],
+      "related_urls": [],
+      "note": "No standalone presentation file located in this collection pass; use the linked original."
+    },
+    {
+      "id": "ideo-field-guide",
+      "title": "The Field Guide to Human-Centered Design, first edition",
+      "publisher": "IDEO.org",
+      "canonical_url": "https://www.designkit.org/resources/1.html",
+      "category": "reference",
+      "access": "files_included",
+      "artifact_ids": [
+        "ideo-field-guide"
+      ],
+      "related_urls": [],
+      "note": "192-page broader methods book, not a pitch deck. Downloaded directly from the file linked by Design Kit. License statement is on PDF page 4."
+    },
+    {
+      "id": "team-outline",
+      "title": "Startup pitch structure",
+      "publisher": "pitch-sources-ivan",
+      "canonical_url": "https://github.com/ivanyalov/pitch-sources-ivan/blob/main/docs/pitch-structure.md",
+      "category": "editorial",
+      "access": "files_included",
+      "artifact_ids": [
+        "team-outline"
+      ],
+      "related_urls": [],
+      "note": "The agreed eight-section editorial synthesis for an early-stage, approximately 15-minute pitch with separate hardware demo and no funding ask. Generated PDF is a reading version of the Markdown source."
+    }
+  ],
+  "artifacts": [
+    {
+      "id": "sequoia-template",
+      "title": "Sequoia-style template: PitchDeckCoach reproduction",
+      "source_ids": [
+        "sequoia-template"
+      ],
+      "local_path": "library/pdfs/sequoia-pitch-deck-template.pdf",
+      "format": "pdf",
+      "kind": "mirror_file",
+      "download_url": "https://research.cs.queensu.ca/softwarestartups/sequoiatemplate.pdf",
+      "status": "included",
+      "retrieved_on": "2026-10-22",
+      "bytes": 65718,
+      "sha256": "9f8d3cfdd4de9507bb010e427ce139c8cc6c5614228160d3decd89ad804dc10c",
+      "rights_status": "not_verified",
+      "rights_note": "Third-party copyright retained. Redistribution permission not verified.",
+      "pages": 13,
+      "note": "13-page variant hosted by Queens University; see source record for difference from requested SlideShare upload."
+    },
+    {
+      "id": "linkedin-deck",
+      "title": "LinkedIn Series B, 2004",
+      "source_ids": [
+        "linkedin"
+      ],
+      "local_path": "library/pdfs/linkedin-series-b-2004.pdf",
+      "format": "pdf",
+      "kind": "mirror_file",
+      "download_url": "https://media.genppt.com/pitch-decks/linkedin/linkedin-pitch-deck-2004.pdf",
+      "status": "included",
+      "retrieved_on": "2026-10-22",
+      "bytes": 2880858,
+      "sha256": "5258e4ca01127583b7703505921f423cdc5ab8568d71e8041caa77ab8b3b29b7",
+      "rights_status": "not_verified",
+      "rights_note": "Third-party copyright retained. Redistribution permission not verified.",
+      "pages": 37
+    },
+    {
+      "id": "intercom-deck",
+      "title": "Intercom first pitch deck",
+      "source_ids": [
+        "intercom"
+      ],
+      "local_path": "library/pdfs/intercom-first-pitch-deck.pdf",
+      "format": "pdf",
+      "kind": "mirror_file",
+      "download_url": "https://pitchmagic.ai/library/intercom/intercom-pitch-deck.pdf",
+      "status": "included",
+      "retrieved_on": "2026-10-22",
+      "bytes": 141235,
+      "sha256": "dd6c18b8c3d570f0e8dea679dd5b639b74bbc18f3b42c0e650ab49a81559e0d3",
+      "rights_status": "not_verified",
+      "rights_note": "Third-party copyright retained. Redistribution permission not verified.",
+      "pages": 8
+    },
+    {
+      "id": "nabc-slides",
+      "title": "Creating Your Value Proposition",
+      "source_ids": [
+        "nabc"
+      ],
+      "local_path": "library/pdfs/nabc-value-proposition.pdf",
+      "format": "pdf",
+      "kind": "publisher_file",
+      "download_url": "https://web.wpi.edu/Images/CMS/Graduate/Creating-Your-Value-Proposition.pdf",
+      "status": "included",
+      "retrieved_on": "2026-10-22",
+      "bytes": 273298,
+      "sha256": "f680c9d06e3ff6424bd0020b655a1f551c4ccea3e1ca5b9c4f58e04643b77b1e",
+      "rights_status": "not_verified",
+      "rights_note": "Slides state copyright 2006-2008 SRI International; presented by Richard D. Sisson, Jr., WPI. No redistribution permission verified.",
+      "pages": 8
+    },
+    {
+      "id": "nabc-card",
+      "title": "WPI Projects With Impact: NABC action plans and tools",
+      "source_ids": [
+        "nabc"
+      ],
+      "local_path": "library/pdfs/nabc-card.pdf",
+      "format": "pdf",
+      "kind": "publisher_file",
+      "download_url": "https://www.wpi.edu/sites/default/files/2021/11/22/VCI-NABC%20Card.pdf",
+      "status": "included",
+      "retrieved_on": "2026-10-22",
+      "bytes": 1227973,
+      "sha256": "ad6a5a219d716ada383429fff297067d1e658dfb0712a9b6c104cb03369e1c8d",
+      "rights_status": "not_verified",
+      "rights_note": "Copyright Practice of Innovation, LLC 2021; Curtis R. Carlson and Len Polizzotto. No redistribution permission verified.",
+      "pages": 2
+    },
+    {
+      "id": "ideo-field-guide",
+      "title": "The Field Guide to Human-Centered Design",
+      "source_ids": [
+        "ideo-field-guide"
+      ],
+      "local_path": "library/pdfs/ideo-field-guide-human-centered-design.pdf",
+      "format": "pdf",
+      "kind": "publisher_file",
+      "download_url": "https://design-kit-production.s3.us-west-1.amazonaws.com/Field_Guides/Field+Guide+to+Human-Centered+Design_IDEOorg_English.pdf",
+      "status": "included",
+      "retrieved_on": "2026-10-22",
+      "bytes": 14508536,
+      "sha256": "d6baa3cd7c49f1d601023a1cec3701c3be610b111ea0906bee74656c854c34a7",
+      "rights_status": "CC-BY-NC-ND-3.0",
+      "rights_note": "PDF page 4 states Creative Commons Attribution-NonCommercial-NoDerivatives 3.0 Unported. Unmodified download, attributed to IDEO.org.",
+      "pages": 192,
+      "note": "License text: https://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "id": "assertion-example",
+      "title": "Engineering Movie Magic: assertion-evidence example",
+      "source_ids": [
+        "assertion-evidence"
+      ],
+      "local_path": "library/presentations/assertion-evidence-movie-magic.ppt",
+      "format": "ppt",
+      "kind": "publisher_file",
+      "download_url": "https://www.writing.engr.psu.edu/Engineering_Movie_Magic.ppt",
+      "status": "included",
+      "retrieved_on": "2026-10-22",
+      "bytes": 6335488,
+      "sha256": "5daba3af44429558988bfccbf6bd0b2d6b77bc865bcc70438fc656c1b7316b0d",
+      "rights_status": "not_verified",
+      "rights_note": "Third-party copyright retained. Redistribution permission not verified."
+    },
+    {
+      "id": "assertion-template",
+      "title": "Assertion-evidence editable template",
+      "source_ids": [
+        "assertion-evidence"
+      ],
+      "local_path": "library/presentations/assertion-evidence-template.ppt",
+      "format": "ppt",
+      "kind": "publisher_file",
+      "download_url": "https://www.writing.engr.psu.edu/AE_presentation_template_EA.ppt",
+      "status": "included",
+      "retrieved_on": "2026-10-22",
+      "bytes": 3409920,
+      "sha256": "8030c0a170416a42b981e15e6a58a1805ae8af0df4722233fd5a1750f7dec3be",
+      "rights_status": "not_verified",
+      "rights_note": "Third-party copyright retained. Redistribution permission not verified."
+    },
+    {
+      "id": "assertion-checklist",
+      "title": "Checklist for Assertion-Evidence Slides",
+      "source_ids": [
+        "assertion-evidence"
+      ],
+      "local_path": "library/pdfs/assertion-evidence-checklist.pdf",
+      "format": "pdf",
+      "kind": "publisher_file",
+      "download_url": "https://www.writing.engr.psu.edu/AE_checklist.pdf",
+      "status": "included",
+      "retrieved_on": "2026-10-22",
+      "bytes": 131589,
+      "sha256": "f3cc3c31f6d408680e743b1860f1cbd5b4c0d86a8a825e581745fbd24db1e88a",
+      "rights_status": "not_verified",
+      "rights_note": "Third-party copyright retained. Redistribution permission not verified.",
+      "pages": 1
+    },
+    {
+      "id": "team-outline",
+      "title": "Our agreed pitch structure: printable reading copy",
+      "source_ids": [
+        "team-outline"
+      ],
+      "local_path": "docs/pitch-structure.pdf",
+      "format": "pdf",
+      "kind": "generated_document",
+      "download_url": null,
+      "status": "included",
+      "retrieved_on": "2026-10-22",
+      "bytes": 6346,
+      "sha256": "0b7dcfdd2cc460856d712f502a4339a3dd8a0587f0f648a1b4fb170b24b10483",
+      "rights_status": "repository_authored",
+      "rights_note": "Editorial synthesis prepared for this team; no blanket license granted.",
+      "pages": 2,
+      "note": "Generated from docs/pitch-structure.md by scripts/build_structure_pdf.py using ReportLab. This is not an author-supplied deck from any source framework."
+    }
+  ]
+}
